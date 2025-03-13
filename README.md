@@ -12,8 +12,3 @@ I'm a passionate developer currently learning and building projects for multiple
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=devjannis&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----  
-[![](https://visitcount.itsvg.in/api?id=devjannis&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
