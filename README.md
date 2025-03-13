@@ -1,5 +1,5 @@
 # 💫 DevJannis
-I'm a passionate developer currently learning and building projects for multiple Discord reselling servers. Always exploring new technologies and optimizing automation workflows.  
+I'm an indie developer, building automation tools and digital solutions. I focus on automation, web scraping, and Discord bot development, especially for reselling and sneaker communities. My projects aim to optimize workflows, improve efficiency, and explore new technologies along the way. 🚀
 
 ---
 
