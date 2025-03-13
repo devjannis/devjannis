@@ -1,4 +1,4 @@
-# 💫 Devjannis
+# 💫 DevJannis
 I'm a passionate developer currently learning and building projects for multiple Discord reselling servers. Always exploring new technologies and optimizing automation workflows.  
 
 ---
