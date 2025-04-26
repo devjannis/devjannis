@@ -1,5 +1,5 @@
 # 💫 DevJannis
-I'm an indie developer, building automation tools and digital solutions. I focus on automation, web scraping, and Discord bot development, especially for reselling and sneaker communities. My projects aim to optimize workflows, improve efficiency, and explore new technologies along the way. 🚀
+Developer specializing in automation, web scraping, and Discord bots for reselling and sneaker communities. I create tools to optimize workflows, boost efficiency, and drive innovation. 
 
 ---
 
