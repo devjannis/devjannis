@@ -1,5 +1,5 @@
 # 💫 DevJannis
-Developer specializing in automation, web scraping, and Discord bots for reselling and sneaker communities. I create tools to optimize workflows, boost efficiency, and drive innovation. 
+Developer and Designer
 
 ---
 
